@@ -1,0 +1,7 @@
+{
+	"name": "gridmashup-bs-template",
+	"type": "mashup",
+	"description": "Mashup example based on Test app",
+	"author": "Ramesh Katla",
+	"allowPosition": true
+}
